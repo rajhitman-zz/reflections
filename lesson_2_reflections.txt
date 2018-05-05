@@ -6,3 +6,5 @@ How is the staging area different from the working directory and the repository?
 Staging area is a temporary area where we can do the changes before actually comminting them to the git repository.
 It prevents unwanted changes from getting commited to the repository. It also helps us decide what files do we want to 
 add to a specific commit.
+
+Here is some text to test how multiple commits get pushed to github :)
